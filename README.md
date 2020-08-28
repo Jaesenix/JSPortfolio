@@ -14,7 +14,7 @@ SO THAT I can show some of my web development skills
 
 ## Deployed Application
 
-[Portfolio_Edit2](https://jaesenix.github.io/Portfolio-Edit-1/)
+[Portfolio_Edit2](https://jaesenix.github.io/Portfolio-Edit-2/)
 
 Index Page
 ![Index Page](./images/index.png)
