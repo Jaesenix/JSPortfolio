@@ -1,0 +1,242 @@
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 20px;
+    width: 100%;
+    margin-top: -13px;
+}
+
+title {
+    margin-top: 0;
+    padding: 0;
+}
+
+.navbar {
+    margin-left: 0px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    /* position: relative; */
+}
+/* 
+.navLogo {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    top: 0px;
+    color: white;
+} */
+
+.navName {
+    font-size: 30px;
+    font-family: serif;
+    margin-left: 50px;
+ }
+
+ .navAbout {
+     justify-content: space-between;
+     margin: 10px;
+     color: white;
+ }
+
+ .navPortfolio {
+     justify-content: space-between;
+     margin: 10px;
+     color: white;
+ }
+
+.navContact {
+    justify-content: space-evenly;
+    margin: 10px;
+    color: white;
+}
+
+.page-header {
+    margin-top: 50px;
+    margin-left: 60px;
+    padding: 5px;
+    color: black;
+    font-family: serif;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;    
+}
+
+.container1 {
+    margin-top: -30px;
+}
+
+.plants {
+    margin-top: -20px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.plantsText {
+    margin-left: 60px;
+    margin-top: 0px;
+    width: 150px;
+    font-size: medium;
+}
+
+.plantsCredit {
+    font-size: x-small;
+    margin-left: 60px;
+    margin-top: -5px;
+    width: 180px;
+    height: 20px;
+}
+
+.cooking {
+    margin-top: -1160px;
+    margin-left: 300px;
+    margin-bottom: 0px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.cookingText {
+    margin-top: -490px;
+    margin-left: 350px;
+    width: 150px;
+    font-size: medium;
+}
+
+.cookingCredit {
+    font-size: x-small;
+    margin-top: -15px;
+    margin-left: 350px;
+    width: 180px;
+    height: 20px;
+}
+
+.fitness {
+    margin-top: -500px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.fitnessText {
+    margin-left: 60px;
+    margin-top: -160px;
+    width: 150px;
+    font-size: medium;
+}
+
+.fitnessCredit {
+    font-size: x-small;
+    margin-left: 60px;
+    margin-top: -15px;
+    width: 180px;
+    height: 20px;
+}
+
+.employee {
+    margin-top: -520px;
+    margin-left: 330px;
+    margin-bottom: -20px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.employeeText {
+    margin-left: 340px;
+    margin-top: -160px;
+    width: 150px;
+    font-size: medium;
+}
+
+.employeeCredit {
+    font-size: x-small;
+    margin-left: 340px;
+    margin-top: -15px;
+    width: 180px;
+    height: 20px;
+}
+
+.budget {
+    margin-top: -1195px;
+    margin-left: 630px;
+    margin-bottom: 0px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.budgetText {
+    margin-top: -511px;
+    margin-left: 640px;
+    width: 150px;
+    font-size: medium;
+}
+
+.budgetCredit {
+    font-size: x-small;
+    margin-left: 640px;
+    margin-top: -15px;
+    width: 180px;
+    height: 20px;
+}
+
+.password {
+    margin-top: -535px;
+    margin-left: 630px;
+    margin-bottom: 0px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+}
+
+.passwordText {
+    margin-left: 640px;
+    margin-top: -180px;
+    width: 150px;
+    font-size: medium;
+}
+
+.passwordCredit {
+    font-size: x-small;
+    margin-left: 640px;
+    margin-top: -15px;
+    width: 180px;
+    height: 20px;
+}
+
+.column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+footer {
+    background: rgb(53, 52, 52);
+    color: white;
+    padding: 5px;
+    font-size: small;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+@media screen and (max-width: 600px) {
+    .column {
+        flex: 100%;
+        max-width: 100%;
+    }
+}
