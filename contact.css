@@ -16,6 +16,12 @@ h1 {
     padding: 10px;
 }
 
+h4 {
+    margin-top: 30px;
+    margin-left: 50px;
+    font-family: serif;
+}
+
 form {
     box-sizing: border-box;
     border-style: solid;
@@ -29,7 +35,7 @@ header {
 }
 
 body {
-    background: lightgray;
+    background: white;
 }
 
 .navbar {
@@ -87,25 +93,29 @@ body {
 
 .linkedIn {
     position: relative;
-    text-align: right;
-    margin-top: 0px;
-    margin-right: -80px;
-    color: rgb(145, 141, 141);
+    display: inline-block;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 50px;
+    color: white;
 }
 
 .github {
     position: relative;
-    text-align: right;
-    margin-top: 0px;
-    margin-right: -80px;
-    color: rgb(145, 141, 141);
+    display: inline-block;
+    text-align: left;
+    margin-top: 40px;
+    margin-left: -60px;
+    color: white;
 }
 
 .resume {
     position: relative;
-    text-align: right;
-    margin-top: -15px;
-    margin-right: -80px;
+    display: inline-block;
+    text-align: left;
+    margin-top: 70px;
+    margin-left: -50px;
+    color: white;
 }
 
 footer {
