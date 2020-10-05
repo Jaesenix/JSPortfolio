@@ -85,42 +85,42 @@ body {
 }
 
 .btn {
-    background-color: darkcyan;
-    margin: 20px;
-    width: 100px;
-    padding: 10px;
-    color: white;
+
 }
 
-.linkedIn {
+#btnLinkedin {
     position: relative;
-    display: inline-block;
-    text-align: left;
-    margin-top: 30px;
-    margin-left: -190px;
+    display: block;
+    margin-top: 10px;
+    margin-left: 50px;
     color: white;
+    width: 93px;
+    text-align: center;
 }
 
-.github {
+#btnGithub {
     position: relative;
-    display: inline-block;
-    text-align: left;
-    margin-top: 60px;
-    margin-left: -60px;
+    display: block;
+    margin-top: 20px;
+    margin-left: 50px;
     color: white;
+    width: 93px;
+    text-align: center;
 }
 
-.resume {
+#btnResume {
     position: relative;
-    display: inline-block;
-    text-align: left;
-    margin-top: 90px;
-    margin-left: -50px;
+    display: block;
+    margin-top: 20px;
+    margin-left: 50px;
     color: white;
+    width: 93px;
+    text-align: center;
 }
 
 .myEmail {
-    margin-left: 50px;
+    position: relative;
+    left: -575px;
 }
 
 footer {
