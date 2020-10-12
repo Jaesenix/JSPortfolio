@@ -71,10 +71,51 @@ title {
     margin-top: -30px;
 }
 
-.plants {
-    margin-top: -20px;
-    margin-left: 20px;
+.covid {
+    margin-top: 40px;
+    margin-left: -30px;
+    margin-bottom: 10px;
+    padding: 10px;
+    width: 330px;
+    height: 200px;
+}
+
+.covidText {
+    margin-left: 60px;
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: medium;
+}
+
+.covidSum {
+    font-size: small;
+    margin-left: 60px;
+    width: 100%;
+}
+
+.covidLang {
+    font-size: small;
+    margin-left: 60px;
+    margin-top: -10px;
+    width: 100%;
+}
+
+.covidCredit {
+    font-size: small;
+    margin-left: 60px;
+    margin-top: -10px;
     margin-bottom: 0px;
+    width: 100%;
+}
+
+.gitcovid {
+    font-size: small;
+    margin-left: 60px;
+}
+
+.plants {
+    margin-top: 40px;
+    margin-left: 50px;
     padding: 10px;
     width: 200px;
     height: 200px;
@@ -82,7 +123,7 @@ title {
 
 .plantsText {
     margin-left: 60px;
-    margin-top: 0px;
+    margin-bottom: 15px;
     width: 150px;
     font-size: medium;
 }
@@ -91,53 +132,61 @@ title {
     font-size: small;
     margin-left: 60px;
     margin-top: -5px;
-    width: 180px;
-    height: 20px;
+    width: 100%;
 }
 
 .plantsLang {
     font-size: small;
     margin-left: 60px;
     margin-top: -5px;
-    width: 180px;
-    height: 20px;
+    width: 100%;
 }
 
 .plantsCredit {
     font-size: small;
     margin-left: 60px;
     margin-top: -5px;
-    width: 180px;
-    height: 20px;
+    width: 100%;
 }
 
 .cooking {
-    margin-top: -1160px;
-    margin-left: 300px;
+    margin-left: 60px;
+    margin-top: 50px;
     margin-bottom: 0px;
-    padding: 10px;
     width: 200px;
     height: 200px;
 }
 
 .cookingText {
-    margin-top: -490px;
-    margin-left: 350px;
-    width: 150px;
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 100%;
     font-size: medium;
 }
 
+.cookingSum {
+    margin-left: 60px;
+    width: 100%;
+    font-size: small;
+}
+
+.cookingLang {
+    margin-top: -10px;
+    margin-left: 60px;
+    width: 100%;
+    font-size: small;
+}
+
 .cookingCredit {
-    font-size: x-small;
-    margin-top: -15px;
-    margin-left: 350px;
-    width: 180px;
-    height: 20px;
+    font-size: small;
+    margin-top: -10px;
+    margin-left: 60px;
+    width: 100%;
 }
 
 .fitness {
-    margin-top: -500px;
-    margin-left: 50px;
+    margin-top: 50px;
+    margin-left: 40px;
     margin-bottom: 0px;
     padding: 10px;
     width: 200px;
@@ -145,8 +194,8 @@ title {
 }
 
 .fitnessText {
-    margin-left: 60px;
-    margin-top: -160px;
+    margin-left: 53px;
+    margin-top: 10px;
     width: 150px;
     font-size: medium;
 }
@@ -154,7 +203,7 @@ title {
 .fitnessCredit {
     font-size: x-small;
     margin-left: 60px;
-    margin-top: -15px;
+    margin-top: 1500px;
     width: 180px;
     height: 20px;
 }
