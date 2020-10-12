@@ -84,7 +84,7 @@ title {
     margin-left: 60px;
     margin-bottom: 10px;
     width: 100%;
-    font-size: medium;
+    font-size: large;
 }
 
 .covidSum {
@@ -114,7 +114,7 @@ title {
 }
 
 .plants {
-    margin-top: 40px;
+    margin-top: 60px;
     margin-left: 50px;
     padding: 10px;
     width: 200px;
@@ -123,9 +123,9 @@ title {
 
 .plantsText {
     margin-left: 60px;
-    margin-bottom: 15px;
-    width: 150px;
-    font-size: medium;
+    margin-bottom: 10px;
+    width: 100%;
+    font-size: large;
 }
 
 .plantsSum {
@@ -138,20 +138,26 @@ title {
 .plantsLang {
     font-size: small;
     margin-left: 60px;
-    margin-top: -5px;
+    margin-top: -10px;
     width: 100%;
 }
 
 .plantsCredit {
     font-size: small;
     margin-left: 60px;
-    margin-top: -5px;
+    margin-top: -10px;
+    margin-bottom: 0px;
     width: 100%;
+}
+
+.gitplant {
+    font-size: small;
+    margin-left: 60px;
 }
 
 .cooking {
     margin-left: 60px;
-    margin-top: 50px;
+    margin-top: 70px;
     margin-bottom: 0px;
     width: 200px;
     height: 200px;
@@ -161,7 +167,7 @@ title {
     margin-top: 20px;
     margin-left: 60px;
     width: 100%;
-    font-size: medium;
+    font-size: large;
 }
 
 .cookingSum {
@@ -181,76 +187,33 @@ title {
     font-size: small;
     margin-top: -10px;
     margin-left: 60px;
+    margin-bottom: 0px;
     width: 100%;
 }
 
-.fitness {
-    margin-top: 50px;
-    margin-left: 40px;
-    margin-bottom: 0px;
-    padding: 10px;
-    width: 200px;
-    height: 200px;
-}
-
-.fitnessText {
-    margin-left: 53px;
-    margin-top: 10px;
-    width: 150px;
-    font-size: medium;
-}
-
-.fitnessCredit {
-    font-size: x-small;
+.gitcooking {
+    font-size: small;
     margin-left: 60px;
-    margin-top: 1500px;
-    width: 180px;
-    height: 20px;
 }
 
 .employee {
-    margin-top: -520px;
-    margin-left: 330px;
-    margin-bottom: -20px;
-    padding: 10px;
+    margin-left: 60px;
+    margin-top: 70px;
+    margin-bottom: 0px;
     width: 200px;
     height: 200px;
 }
 
 .employeeText {
-    margin-left: 340px;
-    margin-top: -160px;
-    width: 150px;
-    font-size: medium;
+    width: 100%;
+    font-size: large;
+    margin-left: 50px;
+    margin-top: 10px;
 }
 
 .employeeCredit {
     font-size: x-small;
     margin-left: 340px;
-    margin-top: -15px;
-    width: 180px;
-    height: 20px;
-}
-
-.budget {
-    margin-top: -1195px;
-    margin-left: 630px;
-    margin-bottom: 0px;
-    padding: 10px;
-    width: 200px;
-    height: 200px;
-}
-
-.budgetText {
-    margin-top: -511px;
-    margin-left: 640px;
-    width: 150px;
-    font-size: medium;
-}
-
-.budgetCredit {
-    font-size: x-small;
-    margin-left: 640px;
     margin-top: -15px;
     width: 180px;
     height: 20px;
