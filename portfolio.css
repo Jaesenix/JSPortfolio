@@ -211,12 +211,30 @@ title {
     margin-top: 10px;
 }
 
+.employeeSum {
+    font-size: small;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+
+.employeeLang {
+    font-size: small;
+    margin-left: 50px;
+}
+
 .employeeCredit {
-    font-size: x-small;
-    margin-left: 340px;
-    margin-top: -15px;
+    font-size: small;
+    margin-left: 50px;
+    margin-top: -10px;
+    margin-bottom: 10px;
     width: 180px;
     height: 20px;
+}
+
+.gitemployee {
+    font-size: small;
+    margin-left: 60px;
+    margin-top: -10px;
 }
 
 .password {
