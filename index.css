@@ -64,20 +64,13 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* .imagecontainer {
-    background-image: url("./images/computer.png");
+.coffee {
     width: 100%;
     height: 100%;
-    opacity: 0.5;
-} */
-
-/* .computer {
-    position: absolute;
-    background-image: url("./images/computer.png");
-    left: 5%;
-    top: 10%;
-    opacity: 0.5;
-} */
+    opacity: .5;
+    margin-top: -210px;
+    margin-right: 20px;
+}
 
 .page-header {
     justify-content: space-evenly;
@@ -105,7 +98,7 @@ p {
 .intro {
     margin-left: 40px;
     margin-top: 10px;
-    width: 100%;
+    width: 95%;
     position: static;
     font-family: serif;
     color: black;
