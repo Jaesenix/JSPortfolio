@@ -88,39 +88,30 @@ body {
 
 }
 
-#btnLinkedin {
+.linkedin {
     position: relative;
     display: block;
     margin-top: 10px;
     margin-left: 50px;
-    color: white;
-    width: 93px;
-    text-align: center;
 }
 
-#btnGithub {
+.github {
     position: relative;
     display: block;
     margin-top: 20px;
     margin-left: 50px;
-    color: white;
-    width: 93px;
-    text-align: center;
 }
 
-#btnResume {
+.resume {
     position: relative;
     display: block;
     margin-top: 20px;
     margin-left: 50px;
-    color: white;
-    width: 93px;
-    text-align: center;
 }
 
 .myEmail {
     position: relative;
-    left: -575px;
+    left: -545px;
 }
 
 footer {
