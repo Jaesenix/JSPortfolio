@@ -1,7 +1,7 @@
-# Portfolio (Edit 2)
+# JS Portfolio
 
 ## Description
-Here is my revised portfolio which includes a couple of my projects. You can learn a little bit about myself, view some of my recent projects, and feel free to contact me.
+Here is my revised portfolio which includes a few of my projects. You can learn a little bit about myself, view some of my recent projects, and feel free to contact me.
 
 ## Technologies
 HTML<br>
@@ -14,7 +14,7 @@ SO THAT I can show some of my web development skills
 
 ## Deployed Application
 
-[JS Portfolio](https://jaesenix.github.io/Portfolio-Edit-2/)
+[JS Portfolio](https://jaesenix.github.io/JSPortfolio/)
 
 Index Page
 ![Index Page](./images/index.png)
