@@ -64,11 +64,11 @@ p {
 }
 
 .coffee {
-    width: 100%;
+    width: 102%;
     height: 100%;
     opacity: .5;
-    margin-top: -250px;
-    margin-right: 20px;
+    margin-top: -270px;
+    margin-right: -10px;
 }
 
 .page-header {
