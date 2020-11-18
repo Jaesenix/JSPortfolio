@@ -111,7 +111,8 @@ body {
 
 .myEmail {
     position: relative;
-    left: -705px;
+    margin-left: -1140px;
+
 }
 
 footer {
